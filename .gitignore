@@ -1,0 +1,26 @@
+# Исполняемые файлы
+*.exe
+*.out
+
+# Объектные файлы C
+*.o
+*.obj
+
+# Результаты запуска программы
+output.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Виртуальные окружения Python
+venv/
+.venv/
+
+# Служебные файлы IDE
+.idea/
+.vscode/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
